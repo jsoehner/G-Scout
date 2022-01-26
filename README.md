@@ -1,5 +1,7 @@
 # G-Scout
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/945218e9-635d-4be4-9f5b-f8cfb464b742.svg?orgId=320408544746)](https://app.soluble.cloud/repos/details/github.com/jsoehner/g-scout?orgId=320408544746)  
+
 G-Scout is a tool for auditing Google Cloud Platform configurations. By making API calls, applying security rules, and generating HTML files based on the output, G-Scout makes it easy to analyze the security of a GCP environment.
 
 There are two ways for the project owner to grant API permissions:
